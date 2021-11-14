@@ -3,8 +3,10 @@
 
 **API:** .NET 5.0
 **UI:** SwaggerUI
-**Database:** Entityframeworkcore.Inmemory
+**Database:** Entityframeworkcore Inmemory
+**Log:** NLog
 **DesignPatters:** Domain Driven Design Patterns, Generic Repository Pattern
+
 
 
 
