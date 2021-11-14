@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Logiwa.Core\Logiwa.Core.csproj" />
+    <ProjectReference Include="..\Logiwa.Entity\Logiwa.Entity.csproj" />
+    <ProjectReference Include="..\Logiwa.Model\Logiwa.Model.csproj" />
+  </ItemGroup>
+
+</Project>
